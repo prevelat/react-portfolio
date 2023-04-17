@@ -1,4 +1,4 @@
-# This was my first try with Create React App
+# This was my first try with React
 
 In this project I created my own website to promote myself.
 Below you'll find standart `Create React App` instructions.
