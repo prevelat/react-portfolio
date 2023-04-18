@@ -13,7 +13,7 @@ const NavBar = () => {
     { id: 5, link: 'contact' },
   ]
   return (
-    <div className="flex fixed justify-between items-center w-full h-20 px-4 text-white bg-black z-10">
+    <div className="flex fixed justify-between items-center w-full h-20 px-4 text-white bg-gradient-to-b from-black via-black to-transparent z-10">
       <div>
         <Link to="home" smooth duration={500}>
           <h1 className="cursor-pointer text-5xl font-signature ml-2">
