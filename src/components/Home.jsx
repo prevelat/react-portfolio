@@ -1,5 +1,5 @@
 import React from 'react'
-import ProfilePicture from '../assets/pp_42.png'
+import ProfilePicture from '../assets/pp_42.jpeg'
 import { MdOutlineKeyboardDoubleArrowRight } from 'react-icons/md'
 import { Link } from 'react-scroll'
 
