@@ -133,11 +133,11 @@ const Experience = () => {
   return (
     <div
       name="experience"
-      className="bg-gradient-to-b from-black via-gray-950 to-gray-900 w-full"
+      className="py-20 xl:py-16 bg-gradient-to-b from-black via-gray-950 to-gray-900 w-full text-white"
     >
-      <div className="max-w-screen-lg mx-auto py-5 flex flex-col justify-center w-full h-full text-white">
-        <div>
-          <p className="text-4xl font-bold border-b-4 border-gray-500 p-2 inline">
+      <div className="flex flex-col p-4 justify-center max-w-screen-lg mx-auto h-full">
+        <div className="py-8">
+          <p className="text-4xl font-bold inline border-b-4 border-gray-500 p-2">
             Experience
           </p>
           <p className="py-6">These are the technologies I've worked with</p>
